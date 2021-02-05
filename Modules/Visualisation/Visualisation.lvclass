@@ -38,4 +38,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
+	<Item Name="Slider for Walk Run Ride.ctl" Type="VI" URL="../Slider for Walk Run Ride.ctl">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!N!!!!!A!.1!I!"UZV&lt;76S;7-!'%"1!!-!!!!!!!!+2'FT&gt;'&amp;O9W5A-A!!!1!"!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+	</Item>
 </LVClass>
