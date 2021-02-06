@@ -384,4 +384,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074541072</Property>
 	</Item>
+	<Item Name="Q_Get Total Distance in KM by Athlete split by Type.vi" Type="VI" URL="../Q_Get Total Distance in KM by Athlete split by Type.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;H!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!#!!Q`````Q!51%!!!P``````````!!1$5H6O!":!1!!#``````````]!"!2897RL!!!S1(!!(A!!&amp;B2%982B)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=Q!!%%2B&gt;'%A47&amp;O97&gt;F=C"P&gt;81!!":!1!!#``````````]!"!23;72F!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!&amp;B2%982B)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=Q!!$U2B&gt;'%A47&amp;O97&gt;F=C"J&lt;A"5!0!!$!!$!!5!"A!(!!A!#1!*!!E!#A!*!!E!#Q-!!(A!!!U)!!!*!!!!#1!!!)U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+	</Item>
 </LVClass>
