@@ -213,6 +213,15 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1074278930</Property>
 		</Item>
 	</Item>
+	<Item Name="Q_Get Data for Flourish.vi" Type="VI" URL="../Q_Get Data for Flourish.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!-0````]'5G6T&gt;7RU!!!71%!!!P``````````!!5&amp;18*S98E!-E"Q!"Y!!"952'&amp;U93".97ZB:W6S,GRW9WRB=X-!!""%982B)%VB&lt;G&amp;H:8)A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"6!!Q!/4H6N9G6S)'^G)'2B?8-!!$"!=!!?!!!7&amp;%2B&gt;'%A47&amp;O97&gt;F=CZM&gt;G.M98.T!!!02'&amp;U93".97ZB:W6S)'FO!&amp;1!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!#1!+!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!I!!!#1!!!!!!%!#Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 	<Item Name="Query Template.vi" Type="VI" URL="../Query Template.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%@!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;%2B&gt;'%A47&amp;O97&gt;F=CZM&gt;G.M98.T!!!12'&amp;U93".97ZB:W6S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!&amp;B2%982B)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=Q!!$U2B&gt;'%A47&amp;O97&gt;F=C"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
